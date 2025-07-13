@@ -84,7 +84,7 @@ MONGO_URI=mongodb://mongo:27017/userdb
 | ------ | ----- | ------------ |
 | GET    | `/`   | Health check |
 
--
+
 
 
 
